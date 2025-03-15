@@ -12,12 +12,20 @@
   "dependencies": {
     "@nuxtjs/color-mode": "latest",
     "@nuxtjs/tailwindcss": "latest",
+    "@primeuix/themes": "latest",
+    "@primevue/forms": "latest",
+    "chart.js": "latest",
     "nuxt": "latest",
+    "primeicons": "latest",
+    "primevue": "latest",
+    "quill": "latest",
+    "sass": "latest",
+    "tailwindcss-primeui": "latest",
     "vue": "latest",
-    "vue-router": "latest",
-    "sass": "latest"
+    "vue-router": "latest"
   },
   "devDependencies": {
+    "@primevue/nuxt-module": "latest",
     "@vueuse/nuxt": "latest"
   }
 }
