@@ -14,7 +14,8 @@
     "@nuxtjs/tailwindcss": "latest",
     "nuxt": "latest",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "sass": "latest"
   },
   "devDependencies": {
     "@vueuse/nuxt": "latest"
